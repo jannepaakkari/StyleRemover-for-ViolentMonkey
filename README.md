@@ -10,6 +10,6 @@ Possibly works with little to no changes with similar extensions i.e. tampermonk
 # Usage
 1. Install ViolentMonkey
 2. Set new script on ViolentMonkey
-3. Copy this script
-4. Set-up classNames inside script that you want to be removed from site(s).
-5. Set-up @match parameter if you dont want to run script globally on all sites you visit (https://violentmonkey.github.io/api/matching/)
+3. Copy this script (StyleRemover.js)
+4. Set up classNames inside the script that you want to be removed from the site(s).
+5. OPTIONAL: Set-up @match parameter if you dont want to run script globally on all sites you visit (https://violentmonkey.github.io/api/matching/)
