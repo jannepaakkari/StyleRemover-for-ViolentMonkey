@@ -6,6 +6,7 @@ Possibly works with little to no changes with similar extensions i.e. tampermonk
 - You could want remove specific classNames on websites for debug purposes. You can of course use debug tool, but on some cases this may be faster and more effective tool. 
 - Could also be used to bypass some poorly implemented paywalls.
 - Sometimes there is some issues on websites, this script could be used to temporary fix those issues.
+- As template/starting point for something similar.
 
 # Usage
 1. Install ViolentMonkey
