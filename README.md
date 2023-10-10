@@ -1,0 +1,1 @@
+# StyleRemover-for-ViolentMonkey
