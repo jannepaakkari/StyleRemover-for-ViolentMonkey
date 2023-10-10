@@ -1,5 +1,6 @@
 # StyleRemover-for-ViolentMonkey
 Script for ViolentMonkey extension (https://violentmonkey.github.io/).
+Possibly works with little to no changes with similar extension i.e. tampermonkey, greasemonkey etc.
 
 # Possible use cases
 - You could want remove specific classNames on websites for debug purposes. You can of course use debug tool, but on some cases this may be faster and more effective tool. 
